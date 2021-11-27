@@ -1,0 +1,67 @@
+.container{
+    margin-bottom: 70px;
+}
+.bg-color{
+    background: #feeae9;
+    border-radius: 50px;
+    padding: 30px 30px;
+}
+.bg-color img{
+    height: 441px;  
+}
+.btn{
+    background: #ff4a92;
+    padding: 10px 15px;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 10px;
+    color: white;
+}
+.py-5{
+    margin-top: 50px;
+}
+.bg-color h1{
+    color: #ff4a92;
+    margin-top: 5px !important;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;  
+    border-radius: 20px;
+}
+.cat1{
+    background-color: orange;
+   
+}
+.cat2{
+    background-color: orchid;
+   
+}
+.cat3{
+    background-color: blue;
+}
+.catagories h1{
+    color: white;
+}
+.catagories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    border-radius: 20px !important;
+}
+.bags img{
+    width: 250px;
+}
+.orange-bg{
+    background: #feeae9;
+    padding: 70px 30px;
+    border-radius: 25px;
+    text-align: center;
+}
+.b-none{
+    border: none;
+}
+.copy{
+    text-align: center;
+    background:rgb(218, 209, 209);
+}
